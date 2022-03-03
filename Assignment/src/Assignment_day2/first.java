@@ -20,7 +20,7 @@ public class first {
 	{
 		int w;
 		w=u*v;
-		System.out.println("multiplication is "+w);
+		System.out.println("Result of multiplication is "+w);
 		return w;
 	}
 	public void div(int m, int n)
