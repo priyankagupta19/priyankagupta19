@@ -6,14 +6,14 @@ public class first {
 	{
 		int c;
 		c=a+b;
-		System.out.println("sum is "+c);
+		System.out.println("Result of sum is "+c);
 		return c;
 	}
 	public int sub(int x,int y)
 	{
 		int z;
 		z=x-y;
-		System.out.println("subtraction is "+z);
+		System.out.println("Result of subtraction is "+z);
 		return z;
 	}
 	public int mul(int u,int v)
