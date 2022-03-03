@@ -27,7 +27,7 @@ public class first {
 	{
 		int o;
 		o=m/n;
-		System.out.println("Result is "+o);
+		System.out.println("Final Result is "+o);
 	}
 	public static void main(String[] args) {
 		first f =new first();
